@@ -18,7 +18,8 @@ A simple weather application that shows real-time weather data using an API.
 2. Open index.html in your browser
 
 ## Screenshot
-(Add image here)
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/5d463723-e78c-4e9a-a0e0-23407ed68d38" />
+
 
 ## Live Demo
 (Add link if hosted)
